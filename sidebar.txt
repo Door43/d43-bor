@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bor:home|Door43 (bor)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bor|d43-bor repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bor/archive/master.zip|d43-bor.zip]]
+
+**Recent Changes**
+{{changes>ns = bor}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bor|Ethnologue data]]
+
